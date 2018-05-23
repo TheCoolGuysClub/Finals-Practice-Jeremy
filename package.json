@@ -1,0 +1,39 @@
+{
+  "name": "assignment_scores",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "David Wei and Jeremy Xu",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.18.3",
+    "connect-flash": "^0.1.1",
+    "dotenv": "^5.0.1",
+    "express": "^4.16.3",
+    "express-handlebars": "^3.0.0",
+    "express-session": "^1.15.6",
+    "express-validator": "^5.2.0",
+    "handlebars": "^4.0.11",
+    "hbs": "^4.0.1",
+    "lodash": "^4.17.10",
+    "mongoose": "^5.1.1",
+    "morgan": "^1.9.0",
+    "nodemon": "^1.17.4",
+    "promise": "^8.0.1",
+    "validator": "^9.4.1",
+    "yargs": "^11.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheCoolGuysClub/AssignmentLink.git"
+  },
+  "bugs": {
+    "url": "https://github.com/TheCoolGuysClub/AssignmentLink/issues"
+  },
+  "homepage": "https://github.com/TheCoolGuysClub/AssignmentLink#readme",
+  "description": ""
+}
